@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/angelorpa/rpg-bob-build-test.git",
+  "description": "Testing bob",
+  "version": "0.0.1",
+  "objlib": "&lib1",
+  "curlib": "&lib1",
+  "includePath": [ "qprotosrc" ],
+  "preUsrlibl": ["&lib1"],
+  "postUsrlibl": [],
+  "setIBMiEnvCmd": []
+}
